@@ -4,6 +4,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Salary Info</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
     
     <%
@@ -37,6 +38,7 @@
     
     <body>
         <h1>Salary Info</h1>
+        <hr class="style">
         
         <table border="1">
             <tbody>

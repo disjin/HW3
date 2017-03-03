@@ -1,0 +1,17 @@
+body{
+     font: white ;
+     background-color: lightblue;
+     font-size: 18pt;
+     padding: 10px;
+     margin-right:10px;
+     margin-left:10px;
+     }
+        
+h1{font-style:italic; font-weight:bold;}
+
+hr.style{
+         border-top: 3px solid black;
+        }
+.right{text-align:right;}
+.left{text-align:left;}
+   
